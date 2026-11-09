@@ -11,12 +11,18 @@ body {
     color: black;
     background-color: #ffffff;
   }
+  p {
+    color: F2F2F2;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
   body {
     color: white;
     background-color: #0d1117;
+  }
+  p {
+    color: gray;
   }
 }
 
